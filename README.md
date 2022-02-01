@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Socrats/egt-tutorial/HEAD)
+
 # egt-tutorial
 Simple tutorial on evolutionary game theory
 
@@ -24,3 +26,6 @@ pip install -r requirements.txt
 ```
 
 You should also have `Jupyter` installed to be able to run the notebooks.
+
+# Citation
+This tutorial uses [EGTtools](https://github.com/Socrats/EGTTools), please check it out also on Github
